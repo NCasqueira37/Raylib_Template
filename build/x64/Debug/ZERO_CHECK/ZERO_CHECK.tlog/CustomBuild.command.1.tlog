@@ -1,0 +1,10 @@
+^C:\USERS\NICKC\DESKTOP\RAYLIBPROJECT\BUILD\CMAKEFILES\1B89A88BAE93C144F90ACBFD6C986894\GENERATE.STAMP.RULE
+setlocal
+D:\CMake\bin\cmake.exe -SC:/Users/nickc/Desktop/RaylibProject -BC:/Users/nickc/Desktop/RaylibProject/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/nickc/Desktop/RaylibProject/build/RaylibProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
