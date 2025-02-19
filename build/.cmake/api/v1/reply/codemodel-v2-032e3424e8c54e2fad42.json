@@ -50,7 +50,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RaylibProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RaylibProject-Debug-39e9220ffff51b8d5697.json",
+					"jsonFile" : "target-RaylibProject-Debug-5c0058df0e80cb42ab6c.json",
 					"name" : "RaylibProject",
 					"projectIndex" : 0
 				},
@@ -112,7 +112,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RaylibProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RaylibProject-Release-3f3449f560efbf14f944.json",
+					"jsonFile" : "target-RaylibProject-Release-f7b40f7fe6e5260c1260.json",
 					"name" : "RaylibProject",
 					"projectIndex" : 0
 				},
@@ -174,7 +174,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RaylibProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RaylibProject-MinSizeRel-54e186e0bfb19fd47dcb.json",
+					"jsonFile" : "target-RaylibProject-MinSizeRel-2fa54c923cc9f6a367ec.json",
 					"name" : "RaylibProject",
 					"projectIndex" : 0
 				},
@@ -236,7 +236,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "RaylibProject::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-RaylibProject-RelWithDebInfo-6179e6850b72235adc78.json",
+					"jsonFile" : "target-RaylibProject-RelWithDebInfo-80aed3258dec3f496568.json",
 					"name" : "RaylibProject",
 					"projectIndex" : 0
 				},
